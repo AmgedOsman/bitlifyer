@@ -6,5 +6,5 @@ jQuery plugin that creates bit.ly short urls of any url pasted into textarea, st
 Trigger
 =========
 <code>
-jQuery(this).bitlifyer({ url: "http://www.verylongdomain.com/and/extra/pages/"});
+jQuery("#textareaId").bitlifyer({ url: "http://www.verylongdomain.com/and/extra/pages/"});
 </code>
