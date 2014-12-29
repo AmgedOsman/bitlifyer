@@ -1,5 +1,6 @@
 /*!
   http://www.amged.me/
+  https://github.com/AmgedOsman/bitlifyer/
   jQuery #bitlify v0.1
 	(c) 2014 Amged Osman
 	The MIT License (MIT)
