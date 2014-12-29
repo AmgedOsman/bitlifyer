@@ -16,10 +16,15 @@ URLs Matching setup
 /*
         (^|\s)                            : ensure that we are not matching an url 
                                             embeded in an other string
+                                            
         (https?:\/\/)?                    : the http or https schemes (optional)
+        
         [\w-]+(\.[\w-]+)+\.?              : domain name with at least two components;
                                             allows a trailing dot
+                                            
         (:\d+)?                           : the port (optional)
+        
         (\/\S*)?                          : the path (optional)
+        
        */
 </code>
