@@ -11,8 +11,8 @@
 		{
         conterDiv   : '',
             url     : 'http://amged.me/',
-            login   : "amgedosman",
-            apikey  : "R_13c8109400054ac68d7c6526bd97ea69",
+            login   : "loginUserName",
+            apikey  : "R_xxxxxxxxxxxxxxxxxxxxApiKey",
             domain  : 'j.mp',
             //format  : 'jsonp',
             //version : '2.0.1'
