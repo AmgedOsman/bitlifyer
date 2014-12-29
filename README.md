@@ -14,7 +14,7 @@ URLs Matching setup
 =========
 <code>
 /*
-        (^|\s)                            : ensure that we are not matching an url 
+        (^|\s)                            : ensure that we are not matching an url
                                             embeded in an other string
                                             
         (https?:\/\/)?                    : the http or https schemes (optional)
