@@ -12,8 +12,7 @@ jQuery("#textareaId").bitlifyer({ url: "http://www.verylongdomain.com/and/extra/
 
 URLs Matching setup
 =========
-<code>
-/*
+<code>/*
         (^|\s)                            : ensure that we are not matching an url
                                             embeded in an other string
                                             
@@ -26,5 +25,9 @@ URLs Matching setup
         
         (\/\S*)?                          : the path (optional)
         
-       */
-</code>
+       */</code>
+Disclaimer
+=========
+It's my 1st code ever, and it was created to serve my needs, if you think there are roam for improvement please let me know.
+
+Cheers from Egypt
